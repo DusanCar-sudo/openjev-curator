@@ -52,3 +52,9 @@ supports_keeper = does the model's label back the Keeper's queued call:
 The accept/reject that follows (mnemai keeper accept/reject, Dusan's call at
 the gate) is exactly the labelled example that builds the phase-2 fine-tune
 set per curator-architecture.
+
+## License
+
+PolyForm Noncommercial 1.0.0 — see [LICENSE](LICENSE). Free for personal,
+research, educational, nonprofit and government use. Commercial use requires
+a separate license from the author; open an issue to ask.
